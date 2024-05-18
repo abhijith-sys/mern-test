@@ -1,0 +1,19 @@
+.formContainer {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    background-color: antiquewhite;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+.from{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    gap: 20px;
+}
